@@ -1,4 +1,7 @@
-# nagel_front
+# Nagel Test Assignment (Frontend)
+
+Frontend part of Nagel Test Assignment
+
 
 ## Project setup
 ```
